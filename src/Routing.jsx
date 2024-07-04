@@ -5,7 +5,7 @@ const Home = lazy(() => import("./pages/Home"));
 
 const Routing = () => {
   return (
-    <Suspense fallback={<>Loading...</>}>
+    <Suspense fallback={<>Loading....</>}>
       <Routes>
         <Route path="/" Component={Home} />
       </Routes>
