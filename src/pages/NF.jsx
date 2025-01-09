@@ -1,6 +1,7 @@
 import { Typography } from "antd";
 
 const Home = () => {
-  return <>Not found</>;
+  return <>Not foundssss</>;
+  
 };
 export default Home;
