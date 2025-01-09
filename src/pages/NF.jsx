@@ -3,6 +3,6 @@ import { useState } from "react";
 
 const Home = () => {
   const [tes, setTes] = useState("");
-  return <>Not founds</>;
+  return <>Found</>;
 };
 export default Home;
